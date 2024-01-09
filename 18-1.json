@@ -1,3 +1,5 @@
+*仓库https://github.com/nosgk/txisugdasdubox
+
 {
 "spider":"http://tvmvip110.live/down.php/7dce83663b899ef6df33fef9bbe241f8.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
@@ -6,7 +8,7 @@
 "sites": [
  {
       "key": "AList",
-      "name": "1改改改8",
+      "name": "nosgk、18改",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
